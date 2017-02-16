@@ -9,4 +9,10 @@
     <string name="fragment_detal_action_update" >Update</string>
     <string name="fragment_master_action_create" >Create</string>
     <string name="activity_first_toolbar_title" >Toolbar title</string>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="activity_settings_name" />
+
+
 </resources>

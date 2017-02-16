@@ -9,7 +9,6 @@ android:orientation="vertical"
     app:layout_collapseParallaxMultiplier="0.0">
 
 
-
         <!-- Toolbar is a standard toolbar for use within application content. -->
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
